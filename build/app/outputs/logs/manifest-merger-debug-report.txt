@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:5:4-41:19
+MERGED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\59f32f5fb4af7fd04b3e84efd66a4bba\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\59f32f5fb4af7fd04b3e84efd66a4bba\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\6cf8860cbde3d3285464894d8ff940a9\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\6cf8860cbde3d3285464894d8ff940a9\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\92410f17e32af4b702f5fd12140cf808\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\92410f17e32af4b702f5fd12140cf808\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\fa5cf673b812e4faa0d6c24a09af3432\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\fa5cf673b812e4faa0d6c24a09af3432\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\0f9a447ce4af717daf8cc4b39b442b92\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\0f9a447ce4af717daf8cc4b39b442b92\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b9a7240e92ed011caa85633dd97592df\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b9a7240e92ed011caa85633dd97592df\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\0f9a447ce4af717daf8cc4b39b442b92\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from [:google_maps_flutter] C:\Users\FLYWEIS\Desktop\wefast_driver\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\FLYWEIS\Desktop\wefast_driver\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:image_cropper] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\c9c6fc0d671a0a11e5c0cd99d1b9e4cd\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\3d137496342736a47dd02bd7228e2cb8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b18aba9ee5a939f6dcd9990f6f95ae8c\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\59f32f5fb4af7fd04b3e84efd66a4bba\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\6cf8860cbde3d3285464894d8ff940a9\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\92410f17e32af4b702f5fd12140cf808\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\fa5cf673b812e4faa0d6c24a09af3432\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\FLYWEIS\.gradle\caches\transforms-3\38b45c2b02957525c9dcdf239ef1c7dc\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\49fbe277bf1a3d77b65aa40e5569e713\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\d171a52e27f9f9795b8293988026da49\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\FLYWEIS\.gradle\caches\transforms-3\95fd0e16025bf31f06e7a01f73e90c90\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\FLYWEIS\.gradle\caches\transforms-3\25f46f92958983788009b48e25ffce5c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a564c663037e606856c27f9488d5791f\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\40633440c875dcbd12d418652f6010d0\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\2c1283fae9834675eeb8205b0a178940\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\2d188c8b13b24e43442886a528b762ab\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\f45419fbdf725c3414ad45644e013dc9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a96907e6c1332c9a703a3a1061049cc3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\857fc7ac2722317922fcbbdb2298034e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\0f9a447ce4af717daf8cc4b39b442b92\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a0e1a3dc66b3c789346d2d11bc487c6c\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\e28ad8bb9823942d567ffc9226ae37f9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b6815d4b93b875313284c0cf1aa71fe5\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b9a7240e92ed011caa85633dd97592df\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\671d65e74d42541f6e61ce065d7864da\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\549bee85c5497a601639dd05ea977a97\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\600d94af939ff564c8da4e0dfa93d062\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a33aa63e0ef5658026a9a747b98a1e12\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\54b219356b11b30783128a9d41b5a26a\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\bbe5449ad2597f82bb1ca7b29480f991\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\59178d2d92cab86d4c5ffddd860bc0b7\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\ca0a9cc76f55eecb2c69510f2ec7b937\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\03cc1d564f3f522355923a11ea396996\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:3:5-77
+	android:name
+		ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:3:22-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:4:5-84
+	android:name
+		ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml:4:22-82
+uses-sdk
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml
+MERGED from [:google_maps_flutter] C:\Users\FLYWEIS\Desktop\wefast_driver\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] C:\Users\FLYWEIS\Desktop\wefast_driver\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\FLYWEIS\Desktop\wefast_driver\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\FLYWEIS\Desktop\wefast_driver\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\c9c6fc0d671a0a11e5c0cd99d1b9e4cd\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\c9c6fc0d671a0a11e5c0cd99d1b9e4cd\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\3d137496342736a47dd02bd7228e2cb8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\3d137496342736a47dd02bd7228e2cb8\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b18aba9ee5a939f6dcd9990f6f95ae8c\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b18aba9ee5a939f6dcd9990f6f95ae8c\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\59f32f5fb4af7fd04b3e84efd66a4bba\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\59f32f5fb4af7fd04b3e84efd66a4bba\transformed\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\6cf8860cbde3d3285464894d8ff940a9\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\6cf8860cbde3d3285464894d8ff940a9\transformed\jetified-play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\92410f17e32af4b702f5fd12140cf808\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\92410f17e32af4b702f5fd12140cf808\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\fa5cf673b812e4faa0d6c24a09af3432\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\fa5cf673b812e4faa0d6c24a09af3432\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\FLYWEIS\.gradle\caches\transforms-3\38b45c2b02957525c9dcdf239ef1c7dc\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.8] C:\Users\FLYWEIS\.gradle\caches\transforms-3\38b45c2b02957525c9dcdf239ef1c7dc\transformed\jetified-ucrop-2.2.8\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\49fbe277bf1a3d77b65aa40e5569e713\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\49fbe277bf1a3d77b65aa40e5569e713\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\d171a52e27f9f9795b8293988026da49\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\d171a52e27f9f9795b8293988026da49\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\FLYWEIS\.gradle\caches\transforms-3\95fd0e16025bf31f06e7a01f73e90c90\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\FLYWEIS\.gradle\caches\transforms-3\95fd0e16025bf31f06e7a01f73e90c90\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\FLYWEIS\.gradle\caches\transforms-3\25f46f92958983788009b48e25ffce5c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\FLYWEIS\.gradle\caches\transforms-3\25f46f92958983788009b48e25ffce5c\transformed\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a564c663037e606856c27f9488d5791f\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a564c663037e606856c27f9488d5791f\transformed\jetified-appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\40633440c875dcbd12d418652f6010d0\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\40633440c875dcbd12d418652f6010d0\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\2c1283fae9834675eeb8205b0a178940\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\2c1283fae9834675eeb8205b0a178940\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\2d188c8b13b24e43442886a528b762ab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\2d188c8b13b24e43442886a528b762ab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\f45419fbdf725c3414ad45644e013dc9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\f45419fbdf725c3414ad45644e013dc9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a96907e6c1332c9a703a3a1061049cc3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a96907e6c1332c9a703a3a1061049cc3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\857fc7ac2722317922fcbbdb2298034e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\857fc7ac2722317922fcbbdb2298034e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\0f9a447ce4af717daf8cc4b39b442b92\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\0f9a447ce4af717daf8cc4b39b442b92\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a0e1a3dc66b3c789346d2d11bc487c6c\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a0e1a3dc66b3c789346d2d11bc487c6c\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\e28ad8bb9823942d567ffc9226ae37f9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\e28ad8bb9823942d567ffc9226ae37f9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b6815d4b93b875313284c0cf1aa71fe5\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b6815d4b93b875313284c0cf1aa71fe5\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b9a7240e92ed011caa85633dd97592df\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\b9a7240e92ed011caa85633dd97592df\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\671d65e74d42541f6e61ce065d7864da\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\671d65e74d42541f6e61ce065d7864da\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\549bee85c5497a601639dd05ea977a97\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\549bee85c5497a601639dd05ea977a97\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\600d94af939ff564c8da4e0dfa93d062\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\600d94af939ff564c8da4e0dfa93d062\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a33aa63e0ef5658026a9a747b98a1e12\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a33aa63e0ef5658026a9a747b98a1e12\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\54b219356b11b30783128a9d41b5a26a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\54b219356b11b30783128a9d41b5a26a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\bbe5449ad2597f82bb1ca7b29480f991\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\bbe5449ad2597f82bb1ca7b29480f991\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\59178d2d92cab86d4c5ffddd860bc0b7\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\59178d2d92cab86d4c5ffddd860bc0b7\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\ca0a9cc76f55eecb2c69510f2ec7b937\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\ca0a9cc76f55eecb2c69510f2ec7b937\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\03cc1d564f3f522355923a11ea396996\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\03cc1d564f3f522355923a11ea396996\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\FLYWEIS\Desktop\wefast_driver\android\app\src\debug\AndroidManifest.xml:6:22-64
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\Users\FLYWEIS\Desktop\wefast_driver\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-76
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] C:\Users\FLYWEIS\Desktop\wefast_driver\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-71
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\FLYWEIS\.gradle\caches\transforms-3\a9ec050e67f96a878a41295d648658fb\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] C:\Users\FLYWEIS\.gradle\caches\transforms-3\9494d3ba86dc5b6d9d6e3f620b9144c1\transformed\jetified-play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\FLYWEIS\.gradle\caches\transforms-3\53b194e6e9136cd5efa4041416eef04b\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\fa5cf673b812e4faa0d6c24a09af3432\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\fa5cf673b812e4faa0d6c24a09af3432\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\FLYWEIS\.gradle\caches\transforms-3\fa5cf673b812e4faa0d6c24a09af3432\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
